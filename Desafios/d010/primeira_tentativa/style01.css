@@ -1,0 +1,54 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #84E1AD
+}
+
+main{
+    padding: 10px;
+    margin: 10px;
+    border: 10px;
+    background-color: white;
+    display: block;
+}
+
+article > p{
+    color: black;
+}
+
+h1{
+    text-align: center;
+    color: white;
+}
+
+header > p{
+    text-align: center;
+    color: white;
+}
+
+h2{
+    font-family: idroid;
+    color: #1A5C38;
+}
+
+h3{
+    font-family: idroid;
+    color: #1A5C38;
+}
+
+header{
+    background-image: linear-gradient(to top, #1A5C38, #227847, #2B9A5C, #35BE72, #33B56D, #3CD882);
+    display: inline-flexbox;
+}
+
+nav > a{
+    text-decoration: none;
+    color: white;
+    font-weight: 500;
+    margin-right: 20px;
+}
+
+footer{
+    background-color: #1A5C38;
+    text-align: center;
+    color: white;
+}
